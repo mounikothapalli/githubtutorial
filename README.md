@@ -1,4 +1,0 @@
-# githubtutorial
-learningofgithub
-
-# Mounikakothapalli
